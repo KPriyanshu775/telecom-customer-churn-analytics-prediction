@@ -1,0 +1,25 @@
+File,Status,Size (KB)
+Telco_Customer_Churn_Cleaned.csv,Available,962.9
+Telco_Customer_Churn_With_Segments.csv,Available,976.67
+data_quality_report.csv,Available,0.61
+customer_segment_profile.csv,Available,0.3
+kmeans_cluster_comparison.csv,Available,0.32
+model_cross_validation_comparison.csv,Available,0.59
+model_test_performance.csv,Available,0.32
+feature_importance.csv,Available,1.07
+customer_churn_predictions.csv,Available,42.92
+customer_churn_risk_register.csv,Available,461.82
+customer_risk_summary.csv,Available,0.13
+churn_threshold_analysis.csv,Available,0.38
+Business_Insights_and_Project_Reflection.md,Available,3.85
+telecom_customer_churn_model.joblib,Available,8.26
+01_churn_distribution.png,Available,61.12
+02_customer_demographics.png,Available,636.96
+03_numerical_distributions.png,Available,292.44
+07_customer_segmentation.png,Available,2362.54
+08_kmeans_evaluation.png,Available,194.23
+09_confusion_matrix.png,Available,88.66
+10_roc_curve_comparison.png,Available,140.12
+11_feature_importance.png,Available,162.02
+12_customer_churn_risk_distribution.png,Available,68.24
+13_threshold_analysis.png,Available,161.86
